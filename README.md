@@ -1,5 +1,5 @@
 # desk-environment-dataset
-Desk environment data for __[Objects images]__, __[Object detection]__, and __[State estimation]__
+#### Desk environment data for __[Objects images]__, __[Object detection]__, and __[State estimation]__
 
 ## The dataset is composed of 
 ### 13 classes of desk objects (RGBA images)
