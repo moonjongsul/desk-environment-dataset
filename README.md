@@ -7,25 +7,27 @@ Desk envirionment data for __[Objects Images]__, __[Classification]__, __[Semant
 ### Additional cooking dataset
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/cooking_objects.png" width="800" height="300">
 
+### Dataset link: 
 * * *
 # Discription of the dataset
 ## Structure
 ```
-desk-environment-dataset
- - objects
- - classification
-   - images
-   - labels
- - segmentation
-   - images
-   - masks
- - state_estimation
-   - images
-   - masks1
-   - masks2
+desk_environment_dataset
+ ㄴ objects
+ ㄴ classification
+    ㄴ images
+    ㄴ labels
+ ㄴ segmentation
+    ㄴ images
+    ㄴ masks
+ ㄴ state_estimation
+    ㄴ images
+    ㄴ masks1
+    ㄴ masks2
 ```
 
 ## Files
 ```
 
-__
+```
+
