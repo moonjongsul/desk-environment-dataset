@@ -14,11 +14,16 @@ Desk environment data for __[Objects images]__, __[Object detection]__, and __[S
 ## Structure
 ```
 desk_environment_dataset
- ㄴ objects
+ ㄴ desk_objects
     ㄴ bin1
     ㄴ bin2
     ...
     ㄴ objects_state
+ ㄴ cooking_objects
+    ㄴ apple
+    ㄴ eggplant
+    ...
+    ㄴ tongs
  ㄴ object_detection
     ㄴ cso5
        ㄴ Images
