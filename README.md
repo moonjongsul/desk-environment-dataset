@@ -14,7 +14,7 @@ data link
 >> - objects
 >> - classification
 >>> - images
->>> -labels
+>>> - labels
 >> - segmentation
 >>> - images
 >>> - masks
