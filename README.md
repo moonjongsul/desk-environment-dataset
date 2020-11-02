@@ -10,18 +10,18 @@ data link
 # Discription of the dataset
 ## Structure
 ```
-> desk-environment-dataset
->> - objects
->> - classification
->>> - images
->>> - labels
->> - segmentation
->>> - images
->>> - masks
->> - state_estimation
->>> - images
->>> - masks1
->>> - masks2
+desk-environment-dataset
+ - objects
+ - classification
+   - images
+   - labels
+ - segmentation
+   - images
+   - masks
+ - state_estimation
+   - images
+   - masks1
+   - masks2
 ```
 
 ## Files
