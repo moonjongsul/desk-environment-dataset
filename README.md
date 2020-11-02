@@ -10,5 +10,15 @@ data link
 ## Structure
 '''
 desk-environment-dataset
---mask
---labels
+--objects
+--classification
+----images
+----labels
+--segmentation
+----images
+----masks
+--state_estimation
+----images
+----masks1
+----masks2
+'''
