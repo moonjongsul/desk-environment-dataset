@@ -2,9 +2,10 @@
 Desk environment data for __[Objects images]__, __[Object detection]__, and __[State estimation]__
 
 ## The dataset is composed of 
+### 13 classes of desk objects
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/desk_objects.png" width="800" height="450">
 
-### Additional cooking dataset
+### Additional 8 classes of cooking objects
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/cooking_objects.png" width="800" height="300">
 
 ### Dataset link: 
