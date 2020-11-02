@@ -1,9 +1,5 @@
 # desk-environment-dataset
-Desk envirionment data for 
-```
-__[Classification]__
-__[Segmentation]__
-__[State estimation]__
+Desk envirionment data for __[Classification]__, __[Segmentation]__, and __[State estimation]__
 ```
 
 The dataset is composed of 
@@ -14,18 +10,18 @@ data link
 # Discription of the dataset
 ## Structure
 ```
-desk-environment-dataset
-  ㄴ objects
-  ㄴ classification
-     ㄴ images
-     ㄴ labels
-  ㄴ segmentation
-     ㄴ images
-     ㄴ masks
-  ㄴ state_estimation
-     ㄴ images
-     ㄴ masks1
-     ㄴ masks2
+> desk-environment-dataset
+>> - objects
+>> - classification
+>>> - images
+>>> -labels
+>> - segmentation
+>>> - images
+>>> - masks
+>> - state_estimation
+>>> - images
+>>> - masks1
+>>> - masks2
 ```
 
 ## Files
