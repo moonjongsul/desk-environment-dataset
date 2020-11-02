@@ -10,17 +10,17 @@ data link
 ## Structure
 ```
 desk-environment-dataset
---objects
---classification
-----images
-----labels
---segmentation
-----images
-----masks
---state_estimation
-----images
-----masks1
-----masks2
+  ㄴ objects
+  ㄴ classification
+     ㄴ images
+     ㄴ labels
+  ㄴ segmentation
+     ㄴ images
+     ㄴ masks
+  ㄴ state_estimation
+     ㄴ images
+     ㄴ masks1
+     ㄴ masks2
 ```
 
 ## Files
