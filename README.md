@@ -1,5 +1,10 @@
 # desk-environment-dataset
-Desk envirionment data for [Classification], [Segmentation], and [State estimation]
+Desk envirionment data for 
+```
+__[Classification]__
+__[Segmentation]__
+__[State estimation]__
+```
 
 The dataset is composed of 
 
@@ -26,3 +31,4 @@ desk-environment-dataset
 ## Files
 ```
 
+__
