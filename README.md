@@ -8,10 +8,9 @@ Desk environment data for __[Objects images]__, __[Object detection]__, and __[S
 ### + 8 classes of cooking objects (RGBA images)
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/cooking_objects.png" width="800" height="300">
 
-### + Object detection dataset (synthesized dataset)
-<img src="" width="" height="">
-### + Object state estimation dataset (synthesized dataset)
-<img src="" width="" height="">
+### + Object detection dataset and state estimation dataset (synthesized dataset)
+<img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/detection.png" width="800" height="700">
+
 ### Dataset link: 
 
 * * *
