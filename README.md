@@ -47,5 +47,5 @@ desk_environment_dataset
 ```
 objects: RGBA images and mask images of desk objects               # for synthetic augmentation
 object_detection: Synthesis images for object detection            # for YOLO, EfficientDet, ... etc. 
-state_estimation: Synthesis images for object's state estimation   # for statenet
+state_estimation: Synthesis images for object state estimation     # for statenet
 ```
