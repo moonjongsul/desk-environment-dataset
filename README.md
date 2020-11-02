@@ -2,7 +2,7 @@
 Desk envirionment data for __[Classification]__, __[Semantic segmentation]__, and __[State estimation]__
 
 ## The dataset is composed of 
-<img src="
+<img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/objects.png" width="500" height="300">
 
 data link:
 
