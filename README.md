@@ -45,6 +45,17 @@ desk_environment_dataset
     ㄴ cso5
        ㄴ train
        ㄴ test
+ ㄴ semantic_segmentation
+    ㄴ train
+       ㄴ Annotations
+       ㄴ images
+       ㄴ labels
+       ㄴ Masks
+    ㄴ val    
+       ㄴ Annotations
+       ㄴ images
+       ㄴ labels
+       ㄴ Masks
 ```
 
 ## Files
