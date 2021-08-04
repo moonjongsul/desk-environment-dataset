@@ -51,7 +51,7 @@ desk_environment_dataset
        ㄴ images
        ㄴ labels
        ㄴ Masks
-    ㄴ val    
+    ㄴ test    
        ㄴ Annotations
        ㄴ images
        ㄴ labels
