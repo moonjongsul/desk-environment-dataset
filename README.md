@@ -14,7 +14,7 @@
 ### Dataset link: https://drive.google.com/drive/folders/1crN2H-TfBem6x4GYxcmqkuZDjUKmLTf0?usp=sharing
 
 * * *
-# Discription of the dataset
+# Description of the dataset
 ## Structure
 ```
 desk_environment_dataset
