@@ -13,6 +13,14 @@
 
 ### Dataset link: https://drive.google.com/drive/folders/1crN2H-TfBem6x4GYxcmqkuZDjUKmLTf0?usp=sharing
 
+### Object state data
+This is a data set for estimating the state and properties of an object.
+This data consists of four types.
+- Object image (single image -> RGB scale)
+- Object manipulation type (folding, sliding, screwing, ... -> class)
+- Object contact region (heatmap -> Gray scale)
+- Object state (open region segment(open or close) -> Gray scale)
+
 * * *
 # Description of the dataset
 ## Structure
