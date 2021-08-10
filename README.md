@@ -22,6 +22,12 @@ This data consists of four types.
 - Object state (open region segment(open or close) -> gray scale)
 
 * * *
+# Data augmentation using background synthesis
+1. Applying augmentation techniques to RGBA object image
+2. Synthesize an augmented image to the background
+<img src="" width="800" height="400">
+
+* * *
 # Description of the dataset
 ## Structure
 ```
