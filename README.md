@@ -1,10 +1,7 @@
 # desk-environment-dataset
-#### Desk environment data for __[Objects images]__, __[Object detection]__, and __[State estimation]__
+#### Desk environment data for __[Object detection]__, __[Segmentation]__, and __[State estimation]__
 
 ### Dataset link: https://drive.google.com/drive/folders/1crN2H-TfBem6x4GYxcmqkuZDjUKmLTf0?usp=sharing
-
-### Object images:
-- 
 
 ## The dataset is composed of 
 ### 13 classes of desk objects (RGBA images)
@@ -21,8 +18,8 @@ This is a data set for estimating the state and properties of an object.
 This data consists of four types.
 - Object image (single image -> RGB scale)
 - Object manipulation type (folding, sliding, screwing, ... -> class)
-- Object contact region (heatmap -> Gray scale)
-- Object state (open region segment(open or close) -> Gray scale)
+- Object contact region (heatmap -> gray scale)
+- Object state (open region segment(open or close) -> gray scale)
 
 * * *
 # Description of the dataset
