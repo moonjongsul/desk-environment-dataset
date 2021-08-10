@@ -4,13 +4,13 @@
 ### Dataset link: https://drive.google.com/drive/folders/1crN2H-TfBem6x4GYxcmqkuZDjUKmLTf0?usp=sharing
 
 ## The dataset is composed of 
-### 13 classes of desk objects (RGBA images)
+### 13 classes of desk objects (RGBA images, background removed)
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/desk_objects.png" width="800" height="450">
 
-### + 8 classes of cooking objects (RGBA images)
+### + 8 classes of cooking objects (RGBA images, background removed)
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/cooking_objects.png" width="800" height="300">
 
-### + Object detection dataset and state estimation dataset (synthesized dataset)
+### + Object detection dataset and state estimation dataset (synthesized dataset using RGBA images)
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/detection.png" width="800" height="350">
 
 ### Object state data
