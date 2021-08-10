@@ -26,7 +26,7 @@ This data consists of four types.
 (Not included in this repo)
 1. Applying augmentation techniques to RGBA object image
 2. Synthesize an augmented image to the background
-<img src="https://github.com/moonjongsul/desk-environment-dataset/blob/todo/augmentation.jpg" width="800" height="200">
+<img src="https://github.com/moonjongsul/desk-environment-dataset/blob/todo/augmentation.jpg" width="800" height="190">
 
 * * *
 # Description of the dataset
