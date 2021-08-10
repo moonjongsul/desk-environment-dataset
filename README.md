@@ -25,7 +25,7 @@ This data consists of four types.
 # Data augmentation using background synthesis
 1. Applying augmentation techniques to RGBA object image
 2. Synthesize an augmented image to the background
-<img src="https://github.com/moonjongsul/desk-environment-dataset/blob/todo/augmentation.jpg" width="800" height="250">
+<img src="https://github.com/moonjongsul/desk-environment-dataset/blob/todo/augmentation.jpg" width="800" height="170">
 
 * * *
 # Description of the dataset
