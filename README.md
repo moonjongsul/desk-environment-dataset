@@ -11,16 +11,14 @@
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/cooking_objects.png" width="800" height="300">
 
 ### + Object detection dataset and property estimation dataset (synthesized dataset using RGBA images)
-<img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/detection.png" width="800" height="350">
-
-### Object property data
 Object properties:
 1. The state of the object for the robot to manipulate the object
-   -> Object state (open region segment(open or close) -> gray scale)
+-> Object state (open region segment(open or close) -> gray scale)
 2. Contact region for the robot to manipulate object
-   -> Object contact region (heatmap -> gray scale)
+-> Object contact region (heatmap -> gray scale)
 3. Manipulation type for robot to manipulate object
-   -> Object manipulation type (folding, sliding, screwing, ... -> class)
+-> Object manipulation type (folding, sliding, screwing, ... -> class)
+<img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/detection.png" width="800" height="350">
 
 * * *
 # Data augmentation using background synthesis
