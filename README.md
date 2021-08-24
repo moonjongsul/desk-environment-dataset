@@ -18,6 +18,7 @@
     - Object contact region (heatmap -> gray scale)
 * Manipulation type for robot to manipulate object
     - Object manipulation type (folding, sliding, screwing, ... -> class)
+Document: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268261
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/detection.png" width="800" height="350">
 
 * * *
