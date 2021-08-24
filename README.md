@@ -12,12 +12,12 @@
 
 ### + Object detection dataset and property estimation dataset (synthesized dataset using RGBA images)
 **Object properties:** 
-1. The state of the object for the robot to manipulate the object
-*Object state (open region segment(open or close) -> gray scale)
-2. Contact region for the robot to manipulate object
-* Object contact region (heatmap -> gray scale)
-3. Manipulation type for robot to manipulate object
-Object manipulation type (folding, sliding, screwing, ... -> class)
+* The state of the object for the robot to manipulate the object
+    - Object state (open region segment(open or close) -> gray scale)
+* Contact region for the robot to manipulate object
+    - Object contact region (heatmap -> gray scale)
+* Manipulation type for robot to manipulate object
+    - Object manipulation type (folding, sliding, screwing, ... -> class)
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/detection.png" width="800" height="350">
 
 * * *
