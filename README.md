@@ -29,51 +29,49 @@
 * * *
 # Description of the dataset
 ## Structure
-```
-desk_environment_dataset
- ㄴ desk_objects
-    ㄴ bin1
-    ㄴ bin2
-    ...
-    ㄴ objects_state
- ㄴ cooking_objects
-    ㄴ apple
-    ㄴ eggplant
-    ...
-    ㄴ tongs
- ㄴ object_detection
-    ㄴ cso5
-       ㄴ Images
-       ㄴ Labels
-       ㄴ Masks
-    ㄴ cso5_cocoform
-       ㄴ train
-       ㄴ train_annot
-       ㄴ val
-       ㄴ val_annot
- ㄴ state_estimation
-    ㄴ cso5_aug     
-       ㄴ train
-       ㄴ test
-    ㄴ cso5
-       ㄴ train
-       ㄴ test
- ㄴ semantic_segmentation
-    ㄴ train
-       ㄴ Annotations
-       ㄴ images
-       ㄴ labels
-       ㄴ Masks
-    ㄴ test    
-       ㄴ Annotations
-       ㄴ images
-       ㄴ labels
-       ㄴ Masks
-```
+**desk_environment_dataset**
+ * desk_objects
+   * bin1
+   * bin2
+   * ...
+   * objects_state
+ * cooking_objects
+   * apple
+   * eggplant
+   * ...
+   * tongs
+ * object_detection
+   * cso5
+     * Images
+     * Labels
+     * Masks
+   * cso5_cocoform
+     * train
+     * train_annot
+     * val
+     * val_annot
+ * state_estimation
+   * cso5_aug     
+     * train
+     * test
+     * cso5
+       * train
+       * test
+ * semantic_segmentation
+   * train
+     * Annotations
+     * images
+     * labels
+     * Masks
+   * test    
+     * Annotations
+     * images
+     * labels
+     * Masks
 
 ## Files
 ```
-objects: RGBA images and mask images of desk objects               # for synthetic augmentation
-object_detection: Synthesis images for object detection            # for YOLO, EfficientDet, ... etc. 
-state_estimation: Synthesis images for object state estimation     # for statenet
+objects: RGBA images and mask images of desk objects                     # for synthetic augmentation
+object_detection: Synthesis images for object detection                  # for YOLO, EfficientDet, ... etc. 
+property_estimation: Synthesis images for object property estimation     # for statenet
 ```
