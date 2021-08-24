@@ -19,7 +19,9 @@
 * Manipulation type for robot to manipulate object
     - Object manipulation type (folding, sliding, screwing, ... -> class)
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/detection.png" width="800" height="350">
+
 Document: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268261
+
 * * *
 # Data augmentation using background synthesis
 1. Applying augmentation techniques to RGBA object image
