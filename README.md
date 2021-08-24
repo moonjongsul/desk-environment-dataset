@@ -1,5 +1,5 @@
 # desk-environment-dataset
-#### Desk environment data for __[Object detection]__, __[Segmentation]__, and __[State estimation]__
+#### Desk environment data for __[Object detection]__, __[Segmentation]__, and __[Property estimation]__
 
 ### Dataset link: https://drive.google.com/drive/folders/1crN2H-TfBem6x4GYxcmqkuZDjUKmLTf0?usp=sharing
 
@@ -10,20 +10,20 @@
 ### + 8 classes of cooking objects (RGBA images, background removed)
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/cooking_objects.png" width="800" height="300">
 
-### + Object detection dataset and state estimation dataset (synthesized dataset using RGBA images)
+### + Object detection dataset and property estimation dataset (synthesized dataset using RGBA images)
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/detection.png" width="800" height="350">
 
-### Object state data
-This is a data set for estimating the state and properties of an object.
-This data consists of four types.
-- Object image (single image -> RGB scale)
-- Object manipulation type (folding, sliding, screwing, ... -> class)
-- Object contact region (heatmap -> gray scale)
-- Object state (open region segment(open or close) -> gray scale)
+### Object property data
+Object properties:
+1. The state of the object for the robot to manipulate the object
+   -> Object state (open region segment(open or close) -> gray scale)
+2. Contact region for the robot to manipulate object
+   -> Object contact region (heatmap -> gray scale)
+3. Manipulation type for robot to manipulate object
+   -> Object manipulation type (folding, sliding, screwing, ... -> class)
 
 * * *
 # Data augmentation using background synthesis
-(source code is not included in this repo)
 1. Applying augmentation techniques to RGBA object image
 2. Synthesize an augmented image to the background
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/todo/augmentation.jpg" width="800" height="190">
