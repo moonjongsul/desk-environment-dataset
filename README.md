@@ -11,7 +11,7 @@
 <img src="https://github.com/moonjongsul/desk-environment-dataset/blob/main/cooking_objects.png" width="800" height="300">
 
 ### + Object detection dataset and property estimation dataset (synthesized dataset using RGBA images)
-Object properties:
+**Object properties:**
 1. The state of the object for the robot to manipulate the object
 -> Object state (open region segment(open or close) -> gray scale)
 2. Contact region for the robot to manipulate object
